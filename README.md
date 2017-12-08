@@ -7,4 +7,5 @@ Sistema de registro de ventas de productos,registro de empleados de clientes y p
 Integrantes:
 
 Keyli Gonzalez
+
 Adolfo Contreras
